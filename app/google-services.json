@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696034235773",
+    "firebase_url": "https://steadyapp-8084d.firebaseio.com",
+    "project_id": "steadyapp-8084d",
+    "storage_bucket": "steadyapp-8084d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696034235773:android:228901a711a29100",
+        "android_client_info": {
+          "package_name": "com.example.jon.steady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696034235773-l11ooth0r5v6168cuq5opsedp9n97olt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jon.steady",
+            "certificate_hash": "dd2d8a5c70209f6f6317a043c1425bef060c1ebc"
+          }
+        },
+        {
+          "client_id": "696034235773-0udkpea5g3cdnsjk2d8oosb5703amucq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQR5DziieJtV-NVH21hVd7LHxXL6_AXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696034235773-0udkpea5g3cdnsjk2d8oosb5703amucq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
